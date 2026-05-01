@@ -1,0 +1,14 @@
+// Style 1: Initials (what you chose - good for professional apps)
+"https://api.dicebear.com/7.x/initials/svg?seed=%s&backgroundColor=%s&fontSize=48&radius=50&size=128"
+
+// Style 2: Adorable Avatars (cute, cartoonish)
+"https://api.dicebear.com/7.x/adventurer/svg?seed=%s&size=128"
+
+// Style 3: Pixel Art
+"https://api.dicebear.com/7.x/pixel-art/svg?seed=%s&size=128"
+
+// Style 4: Bottts (robot style)
+"https://api.dicebear.com/7.x/bottts/svg?seed=%s&size=128"
+
+// Style 5: Micah (beautiful portraits)
+"https://api.dicebear.com/7.x/micah/svg?seed=%s&size=128"
