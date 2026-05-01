@@ -1,0 +1,68 @@
+# Backend - Java/Spring
+backend/target/
+backend/.mvn/
+backend/mvnw
+backend/mvnw.cmd
+backend/*.log
+backend/.classpath
+backend/.project
+backend/.settings/
+backend/.vscode/
+backend/.idea/
+backend/*.iml
+backend/data/
+backend/bin/
+backend/src/test/
+backend/src/main/resources/application.properties
+
+# Backend - Application specific
+backend/application.properties.local
+backend/application-dev.properties
+
+# Frontend
+frontend/node_modules/
+frontend/.next/
+frontend/build/
+frontend/dist/
+frontend/.env.local
+frontend/.env.production
+frontend/dev-dist/
+
+# Logs
+frontend/logs
+frontend/*.log
+frontend/npm-debug.log*
+frontend/yarn-debug.log*
+frontend/yarn-error.log*
+frontend/pnpm-debug.log*
+frontend/lerna-debug.log*
+
+frontend/dist-ssr
+frontend/*.local
+
+# Editor directories and files
+frontend/.vscode/*
+frontend/!.vscode/extensions.json
+frontend/.idea
+frontend/.DS_Store
+frontend/*.suo
+frontend/*.ntvs*
+frontend/*.njsproj
+frontend/*.sln
+frontend/*.sw?
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+# Logs
